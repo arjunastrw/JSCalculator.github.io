@@ -1,0 +1,8 @@
+HTML
+JavaScript
+CSS
+Bootstrap
+SASS
+React
+Redux
+jQuery 
